@@ -125,9 +125,10 @@ The script provides several visualization options:
   - Transfer learning parameters can be tuned for specific domains
 
 ## License
-
-[Add your license information here]
+Contact the authors for more information
 
 ## Contact
+chiyang.lucas@gmail.com
 
-[Add your contact information here] 
+## Cite
+Yang, C., Kaynardag, K., Lee, G. W., & Salamone, S. (2025). Long short-term memory autoencoder for anomaly detection in rails using laser doppler vibrometer measurements. Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems, 8(3), 031003.
