@@ -18,7 +18,6 @@ The system processes LDV signals to detect anomalies in velocity measurements, w
 - Adaptive threshold calculation for anomaly detection
 - Visualization tools for results analysis
 - Support for multiple LDV channels (LDV1 and LDV2)
-- Real-time anomaly detection capabilities
 
 ## Dependencies
 
